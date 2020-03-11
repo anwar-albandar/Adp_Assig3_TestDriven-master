@@ -12,7 +12,7 @@ public class ClientTest {
     @Before
     public void setUp() throws Exception{
 
-        cli =  new Client("Mukuna", 5);
+        cli =  new Client("ِAnwar", 5);
 
     }
 

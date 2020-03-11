@@ -6,5 +6,7 @@ package ac.za.cput;
  */
 public class App 
 {
+    system.print.out("Anwar")
 
 }
+
